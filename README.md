@@ -12,3 +12,9 @@ To Learn Design Patterns in iOS, by using Objective-C
 
 * 组合模式(Composite)
   * 文件浏览器
+
+====
+
+## 【demo】文件浏览器
+
+![img](http://img17.poco.cn/mypoco/myphoto/20160313/10/17889754020160313103543035.png?441x437_130)
